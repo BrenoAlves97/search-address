@@ -1,4 +1,5 @@
-# address-autocomplete
+# Busque seu endereço
+
 - Consumindo API do Via-CEP.
 
 - Descubra seu endereço completo apenas digitando seu CEP. Ao inserir e buscar( ou alterando foco do input CEP), os campos serão preenchidos automaticamente.
@@ -21,8 +22,5 @@
 <br>
 
 
-![image](https://img.shields.io/badge/layout-responsive-blueviolet)
-
-![image](https://user-images.githubusercontent.com/100312812/202878328-8b25b724-0814-4f30-b288-657161e58707.png)
 
 
