@@ -113,8 +113,8 @@ input:focus {
     width: 100%;
     text-align: center;
     color: #fef;
-    padding: 2rem 0 0 0 ;
-    min-height: 1rem;
+    padding: .1rem ;
+    min-height: 1.1rem;
     font-size: .8rem;
     font-weight: 600;
 }
@@ -122,7 +122,7 @@ input:focus {
 #footer  a {
     text-decoration: none;
     color: #fef; 
-    font-size: .8rem;
+    font-size: .9rem;
     font-weight: 600;
 }
 
