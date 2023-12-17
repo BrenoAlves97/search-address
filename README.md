@@ -10,11 +10,9 @@
 - HTML
 - CSS 
 - JAVASCRIPT
-- DOM
 <br>
 
 
-![image](https://img.shields.io/badge/layout-project-blueviolet)
 
 ![image](https://user-images.githubusercontent.com/100312812/202878166-7114dcd0-3521-4d59-b33b-56196d4f2a79.png)
 
